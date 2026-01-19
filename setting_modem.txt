@@ -1,0 +1,20 @@
+
+
+
+CARA SETTING CON MONITOR
+
+1.Monitor
+  Basic Setting 
+  Enabled Centang
+  Address Or Name : Bughost Ganti IP 
+ 
+2.Configuratiom
+  Interface Modem Anda 
+  
+3.Masuk Folder USR  
+  usr/bin/ip.py 
+
+4.Edit File ip.py & Ganti IP Modem & Passwordnya
+  router_ip = '192.168.7.1'
+  username = 'admin'
+  password = 'admin'
