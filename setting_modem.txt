@@ -1,4 +1,6 @@
 
+Install IPK dibawah
+luci-app-lite-watchdg_1.0.16-20240704_all.ipk
 
 
 CARA SETTING CON MONITOR
@@ -17,4 +19,5 @@ CARA SETTING CON MONITOR
 4.Edit File ip.py & Ganti IP Modem & Passwordnya
   router_ip = '192.168.7.1'
   username = 'admin'
+
   password = 'admin'
