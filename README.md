@@ -1,5 +1,7 @@
 # Tools Atau Scripts Buat Ganti IP Otomatis
 
+# Tester Modem Orbit Star 2 & 5577 Working
+
 # Created Boychongzen aka Xroot
 
 #  Menu LOG 
